@@ -1,1 +1,1 @@
-TesteGit
+Esse repositório é para teste de comandos Git, estou aprendendo a utilizá-los.
