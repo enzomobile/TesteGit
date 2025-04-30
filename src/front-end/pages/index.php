@@ -10,7 +10,7 @@
     <h1>Apenas teste</h1>
     <p>Esse arquivo, junto dos outros, foram feitos pelo terminal, só estou usando alguns comandos pra aprende-los.</p>
     <br>
-    <form action="src/back-end/soma.php" method="POST">
+    <form action="../soma.php" method="POST">
         <input type="number" name="valor1" id="valor1">
         <br>
         <input type="number" name="valor2" id="valor2">
